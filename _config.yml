@@ -1,5 +1,4 @@
 title: "My Blog"
-baseurl: "/blog"
+baseurl: ""
 url: "https://GanonUchiha.github.io"
 theme: minima
-layouts_dir: _layouts
