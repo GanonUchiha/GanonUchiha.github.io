@@ -1,9 +1,7 @@
 ---
 layout: default
-title: Blog
+title: My Blog 📝
 ---
-
-# My Blog 📝
 
 Welcome to my blog! Here are my latest posts:
 
