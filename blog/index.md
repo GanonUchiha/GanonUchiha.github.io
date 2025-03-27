@@ -11,8 +11,8 @@ Welcome to my blog! Here are my latest posts:
       <a href="{{ post.url }}">{{ post.title }}</a>
       <small>
         — {{ post.date | date: "%B %d, %Y" }}
-        {% if page.last_modified_at %}
-            (Updated {{ page.last_modified_at | date: "%B %d, %Y" }})
+        {% if post.last_modified_at %}
+            (Updated {{ post.last_modified_at | date: "%B %d, %Y" }})
         {% endif %}
       </small>
     </li>
