@@ -2,3 +2,4 @@ title: "My Blog"
 baseurl: "/blog"
 url: "https://GanonUchiha.github.io"
 theme: minima
+layouts_dir: _layouts
