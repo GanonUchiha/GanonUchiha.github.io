@@ -2,7 +2,7 @@
 layout: post
 title: "First Thoughts on Vibe Coding"
 date: 2025-03-27
-tags: [opinion, vibe_coding]
+tags: [vibe_coding, opinion]
 ---
 
 First impression: What kind of mess is this.
